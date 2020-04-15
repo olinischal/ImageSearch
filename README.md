@@ -1,1 +1,1 @@
-ImageSearch 
+Search Image
