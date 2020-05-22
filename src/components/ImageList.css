@@ -1,0 +1,15 @@
+.image-list {
+    display : grid;
+    
+    grid-gap: 0 10px;
+    grid-auto-rows: 10px;
+    
+    grid-template-columns: auto auto auto;
+    
+}
+
+.image-list img {
+    width: 304.33px;
+    grid-row-end: span 2;
+}
+
